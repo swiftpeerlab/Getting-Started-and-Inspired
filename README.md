@@ -28,7 +28,7 @@ Here are some ideas:
 - Network with your peers, did you learn something this week you want to share?
 - Use one of the Peer Lab projects as a starting point, we have a [mobile app](https://github.com/swiftpeerlab/Poppin) and a [mobile game](https://github.com/swiftpeerlab/Bomba)
 
-Tips: If you have already experience try to pair with someone with less experience and teach them something you know, that way you also learn by explaining and you get your assumptions questioned.
+Tip: If you have already experience try to pair with someone with less experience and teach them something you know, that way you also learn by explaining and you get your assumptions questioned.
 
 # Group
 
