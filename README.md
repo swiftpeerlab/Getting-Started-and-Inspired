@@ -32,4 +32,4 @@ Tip: If you have already experience try to pair with someone with less experienc
 
 # Group
 
-We a Slack group to exchange messages and informations you can sign up [here](https://join.slack.com/t/swiftpeerlab/shared_invite/enQtMzU5MzE5ODY0OTk5LTA5NmJjZmZkMjg0NjhjNzVjNzA3MGU0MTFjNTUyZjdjMTg4ZjdjODcwZGEwNzA1ODU1ODIzNTNjNmY5MmRiMWE)
+We have a Slack group that you can sign up [here](https://join.slack.com/t/swiftpeerlab/shared_invite/enQtMzU5MzE5ODY0OTk5LTA5NmJjZmZkMjg0NjhjNzVjNzA3MGU0MTFjNTUyZjdjMTg4ZjdjODcwZGEwNzA1ODU1ODIzNTNjNmY5MmRiMWE)
